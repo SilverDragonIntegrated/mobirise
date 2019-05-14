@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Silver Dragon Integrated",
-    "currentPage": "SilverDragonIntegrated.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -38,7 +38,7 @@
     "noImageResize": ""
   },
   "pages": {
-    "SilverDragonIntegrated.html": {
+    "index.html": {
       "settings": {
         "main": true,
         "title": "Silver Dragon Integrated",
